@@ -1,0 +1,8 @@
+#+title: ~scrape-findbehandler~
+#+author: Rune Juhl Jacobsen
+
+A small program that scrapes
+https://www.sundhed.dk/borger/guides/find-behandler/ for clinic and doctor
+information and outputs it as text. No error handling, caveat emptor.
+* Why?
+A favor for a friend.
